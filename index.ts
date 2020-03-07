@@ -1,4 +1,4 @@
-interface Person {
+/*interface Person {
     name: string;
 }
 const person: Person = { name: 'Antonio' }
@@ -73,5 +73,4 @@ minhaLista.push(...[2, 3, 4, 5])
 console.log(minhaLista);
 
 const temdois = minhaLista.filter(x => x === 2);
-console.log(temdois);
-
+console.log(temdois);*/
